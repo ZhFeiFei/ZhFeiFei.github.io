@@ -1,15 +1,15 @@
 #第一章 Markdown介绍
 ##Markdown教学课程大纲
 >* 1.markdown是什么？使用情况
-* 2.markdown的优点
-* 3.markdown各平台的软件种类和具体举例
-* 4.深入了解markdown语法：
-	* 1）兼容html、特殊符号转换
-	* 2）段落和换行、标题、区块引用
-	* 3）代码区块
-	* 4）分割线
-	* 5）链接、强调、代码语法
-	* 6）其他语法
+>* 2.markdown的优点
+>* 3.markdown各平台的软件种类和具体举例
+>* 4.深入了解markdown语法：
+>	* 1）兼容html、特殊符号转换
+>	* 2）段落和换行、标题、区块引用
+>	* 3）代码区块
+>	* 4）分割线
+>	* 5）链接、强调、代码语法
+>	* 6）其他语法
 ##简要介绍
 >Markdown 是一个 Web 上使用的文本到HTML的转换工具，可以通过简单、易读易写的文本格式生成结构化的HTML文档。目前 github、Stackoverflow 等网站均支持这种格式。
 
@@ -297,9 +297,10 @@ __全体注意__
 	* [id]是图片参考的名称，图片参考的定义方式则和链接参考一样：
 	* [id]:images/1.jpg "Optional title attribute"
 	* 到目前为止，Markdown还没有办法指定图片的宽度，如果需要的话可以使用普通的<img>标签
->###实战案例：
->####Markdown图片示例讲解
->####行内式
+>	
+###实战案例：
+####Markdown图片示例讲解
+####行内式
 ![Alt text](https://www.baidu.com/img/bd_logo1.png "Array老师示例")
 >
 ![Alt text](D:/新建文件夹/1.png "local demo")
